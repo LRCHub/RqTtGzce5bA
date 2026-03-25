@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "white frost",
+  "base_artist": "日食なつこ",
+  "createdAt": "2026-03-25T09:51:31.763554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Frost",
+      "artist": "Tall Heights",
+      "has_synced": true,
+      "path": "select/01_White_Frost_Tall_Heights.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Frost (Acoustic)",
+      "artist": "Tall Heights",
+      "has_synced": true,
+      "path": "select/02_White_Frost_(Acoustic)_Tall_Heights.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Frost (Chadouze Airplay mix)",
+      "artist": "Wynardtage",
+      "has_synced": false,
+      "path": "select/03_White_Frost_(Chadouze_Airplay_mix)_Wynardtage.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Frost (airplay version)",
+      "artist": "Wynardtage",
+      "has_synced": false,
+      "path": "select/04_White_Frost_(airplay_version)_Wynardtage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Frost",
+      "artist": "Wynardtage",
+      "has_synced": false,
+      "path": "select/05_White_Frost_Wynardtage.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White Frost (Acoustic)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_White_Frost_(Acoustic)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "white frost",
+      "artist": "日食なつこ",
+      "has_synced": true,
+      "path": "select/07_white_frost_日食なつこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "white frost",
+      "artist": "日食なつこ",
+      "has_synced": false,
+      "path": "select/pl_01_white_frost_日食なつこ.txt"
+    }
+  ]
+}
